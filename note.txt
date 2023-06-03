@@ -1,0 +1,5 @@
+steps
+  1 complete name
+  2 username
+  3 password - confirm password
+  4 birtday + cneckbox
