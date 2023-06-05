@@ -3,3 +3,12 @@ steps
   2 username
   3 password - confirm password
   4 birtday + cneckbox
+
+  []-get all data from inputs
+    []-storage all the data to be display later
+    -validation:
+      []--complete name: min/max character - trim the values - not empty
+      []--username: min/max character - not empty
+      []--password: min character - not same as username - hash it before storage not empty
+      []--birtday/checkbox: not empty - older than 18 years
+  []-display data on a popup on 'birtday.html'
