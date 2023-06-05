@@ -92,6 +92,16 @@ body {
   border-radius: 10px;
   outline: none;
 }
+.label {
+  background: #323232;
+  border: none;
+  padding: 10px 20px;
+  width: 200px;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 10px;
+  outline: none;
+}
 
 .input:first-child {
   margin-bottom: 0.5rem;
